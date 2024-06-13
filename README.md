@@ -11,4 +11,6 @@
 - Create a text file in the same directory as the python scripts named "JOSAA choices.txt"
 - Paste the contents in the file you created and save.
 - Now run josaa-course.py to get all the courses of josaa.
-- Run filter-courses.py to filter and get a shorter list of courses you want
+- Run course-filter.py to filter and get a shorter list of courses you want
+
+`yes`
