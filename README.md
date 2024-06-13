@@ -6,13 +6,9 @@
   ![image](https://github.com/UdontKnowMe69/josaa-parser/assets/110294290/60c65acb-0b78-4655-8b91-83c370fe4c02)
 - Now in the inspect tab, Hit Ctrl+F and find the "Academic Program" section inside a label class.
  ![image](https://github.com/UdontKnowMe69/josaa-parser/assets/110294290/3ee13a2f-e9db-452c-bab3-a0a4d8705640)
-- Now right click on the <select> tag right below it and click on "Copy element"
-- Paste the contents in a text document in the same directory as the python files.
-- Rename the file or the code to the file name you saved.
-- Run josaa-courses.py for a list of all the josaa courses
-- Run filter_courses-josaa.py **after** running josaa-courses.py to get a list of all available CS courses
 
-
-It tremendously helps so you can keep track of all your selections :)
-
-Best wishes!
+- Right click on the label class and select "Copy element" option.
+- Create a text file in the same directory as the python scripts named "JOSAA choices.txt"
+- Paste the contents in the file you created and save.
+- Now run josaa-course.py to get all the courses of josaa.
+- Run filter-courses.py to filter and get a shorter list of courses you want
