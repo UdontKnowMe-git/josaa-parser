@@ -7,14 +7,10 @@
 - Now in the inspect tab, Hit Ctrl+F and find the "Academic Program" section inside a label class.
  ![image](https://github.com/UdontKnowMe69/josaa-parser/assets/110294290/3ee13a2f-e9db-452c-bab3-a0a4d8705640)
 - Now right click on the <select> tag right below it and click on "Copy element"
-
 - Paste the contents in a text document in the same directory as the python files.
-
 - Rename the file or the code to the file name you saved.
-
 - Run josaa-courses.py for a list of all the josaa courses
-
-- Run cse_courses-josaa.py **after** running josaa-courses.py to get a list of all available CS courses
+- Run filter_courses-josaa.py **after** running josaa-courses.py to get a list of all available CS courses
 
 
 It tremendously helps so you can keep track of all your selections :)
